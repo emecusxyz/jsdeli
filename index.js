@@ -7,12 +7,12 @@ const novel = [
   {
     title: "African child",
     description: "african story",
-    author: "unknwon",
+    author: "camara",
   },
   {
     title: "African Night Entertainment",
     description: "african story",
-    author: "knwon",
+    author: "Abu",
   },
 ];
 f = novel.reverse();
